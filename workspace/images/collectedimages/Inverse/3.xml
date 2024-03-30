@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Inverse</folder>
+	<filename>3.jpg</filename>
+	<path>E:\Stock_Pro\TFODCourse\Tensorflow\workspace\images\collectedimages\Inverse\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Inverse H&amp;S Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>127</ymin>
+			<xmax>238</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>W-Pattern</folder>
+	<filename>2.jpeg</filename>
+	<path>E:\Stock_Pro\TFODCourse\Tensorflow\workspace\images\collectedimages\W-Pattern\2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>932</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W-Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>311</ymin>
+			<xmax>699</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

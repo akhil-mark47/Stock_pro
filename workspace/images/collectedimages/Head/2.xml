@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Head</folder>
+	<filename>2.jpeg</filename>
+	<path>E:\Stock_Pro\TFODCourse\Tensorflow\workspace\images\collectedimages\Head\2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>323</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H&amp;S Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>32</ymin>
+			<xmax>280</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

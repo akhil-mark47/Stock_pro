@@ -1,0 +1,62 @@
+<annotation>
+	<folder>W-Pattern</folder>
+	<filename>1.jpeg</filename>
+	<path>E:\Stock_Pro\TFODCourse\Tensorflow\workspace\images\collectedimages\W-Pattern\1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>706</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H&amp;S Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>702</xmin>
+			<ymin>211</ymin>
+			<xmax>706</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>H&amp;S Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>706</xmin>
+			<ymin>471</ymin>
+			<xmax>706</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Inverse H&amp;S Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>581</ymin>
+			<xmax>706</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>M-Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>206</ymin>
+			<xmax>561</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

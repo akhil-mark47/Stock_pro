@@ -1,0 +1,16 @@
+item { 
+	name:'Head'
+	id:1
+}
+item { 
+	name:'Inverse'
+	id:2
+}
+item { 
+	name:'M-Pattern'
+	id:3
+}
+item { 
+	name:'W-Pattern'
+	id:4
+}
